@@ -4,7 +4,7 @@ A lost-and-found platform for campuses. Users post lost or found items with phot
 
 ## Demo
 
-[![Watch Demo](https://img.youtube.com/vi/r-kQ50-gTN8/0.jpg)](https://youtu.be/r-kQ50-gTN8)
+[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/r-kQ50-gTN8)
 
 ## Architecture
  
