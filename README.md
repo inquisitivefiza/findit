@@ -9,7 +9,7 @@ A lost-and-found platform for campuses. Users post lost or found items with phot
 
 ## Architecture
  
-![Architecture]()
+![Architecture](images/findit_architecture.svg)
 
 ## Tech Stack
 
